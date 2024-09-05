@@ -9,17 +9,7 @@
 > 
 > 후회없이 최선을 다하자! (Do your best without regrets!)
 
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/YooByeongJu">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-</p>
+
 
 ## 🚀 About Me
 - 🎓 ○○대학교 졸업 (2018.03 ~ 2024.02)
@@ -82,8 +72,17 @@
 - CLASS 축구 동아리 (2018.04 ~ 2023.11)
 
 ## 📫 How to reach me
-
-Email: [youbj213@gmail.com]
+<p align="center">
+  <a href="mailto:youbj213@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/youbj">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+</p>
 
 ## 📈 Contribution Graph
 
