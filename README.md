@@ -86,7 +86,7 @@
 
 ## 📈 Contribution Graph
 
-![Snake animation](https://github.com/YooByeongJu/YooByeongJu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/youbj/YooByeongJu/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
