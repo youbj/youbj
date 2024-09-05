@@ -2,7 +2,7 @@
 # Hi there, I'm YooByeongJu! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C90F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C90F7&center=true&vCenter=true&width=435&lines=Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 > 어제보다 한발짝 발전한 개발자가 되자! (Become a developer who's one step ahead of yesterday!)
