@@ -22,10 +22,10 @@
 </p>
 
 ## 🚀 About Me
-- 🎓 Graduated from ○○ University (2018.03 ~ 2024.02)
-- 💻 Currently at Samsung Software Academy for Youth (SSAFY) 11th (2024.01 ~ )
-- 🏆 Multiple project awards winner
-- 🌱 Continuously growing developer with a passion for learning
+- 🎓 ○○대학교 졸업 (2018.03 ~ 2024.02)
+- 💻 삼성 청년 소프트웨어 아카데미 11기 (2024.01 ~ )
+- 🏆 다수의 프로젝트 수상 경력
+- 🌱 지속적으로 성장하는 개발자
 
 ## 🛠️ Tech Stack
 
@@ -61,25 +61,29 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YooByeongJu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YooByeongJu&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youbj&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youbj&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ## 🏆 Achievements
-- 2024 Shinhan Hackathon WITH SSAFY (2024.09)
-- Outstanding Award at ○○ University Electronic Information College Capstone Design Presentation (2023.11)
-- Encouragement Award at 2022 Korea Tourism Organization Tour API 4.0 with Kakao Contest (2022.10)
-- Excellence Award for Open Source Professional Project (2022.06)
+- 2024 신한 해커톤 WITH SSAFY (2024.09)
+- ○○대학교 전자정보대학 캡스톤 디자인 발표회 우수상 (2023.11)
+- 2022 한국관광공사 Tour API 4.0 with Kakao 공모전 장려상 (2022.10)
+- 2022년도 1학기 오픈소스전문프로젝트 교과기반 프로젝트 우수상 (2022.06)
 
 ## 📚 Education & Certifications
-- SQLD Certification (2024.04)
-- Samsung Software Academy for Youth (SSAFY) 11th (2024.01 ~ )
-- ○○ University (2018.03 ~ 2024.02)
+- SQLD 자격증 취득 (2024.04)
+- 삼성 청년 소프트웨어 아카데미 11기 (2024.01 ~ )
+- ○○대학교 (2018.03 ~ 2024.02)
 
 ## 🌟 Activities
-- Software Volunteer Group (2023.04 ~ 2024.03)
-- Vice President of PDA-Pro Academic Club (2022)
-- Member of CLASS Soccer Club (2018.04 ~ 2023.11)
+- 소프트웨어 봉사단 (2023.04 ~ 2024.03)
+- PDA-Pro 학술 동아리 임원 및 부회장 (2018~2023)
+- CLASS 축구 동아리 (2018.04 ~ 2023.11)
+
+## 📫 How to reach me
+
+Email: [youbj213@gmail.com]
 
 ## 📈 Contribution Graph
 
@@ -90,5 +94,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YooByeongJu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youbj&show_icons=true&theme=radical)
