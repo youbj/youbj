@@ -84,9 +84,15 @@
   </a>
 </p>
 
-## 📈 Contribution Graph
-
-![Snake animation](https://github.com/youbj/YooByeongJu/blob/output/github-contribution-grid-snake.svg)
+<h2 align="center">📈 Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youbj&theme=react-dark" alt="Contribution Graph" />
+</p>
+Show Image
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=youbj&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
