@@ -1,5 +1,5 @@
 
-# 안녕하세요, 항상 도전하는 개발자 유병주입니다! 👋
+# 안녕하세요, 항상 도전하는 개발자입니다! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C90F7&center=true&vCenter=true&width=435&lines=Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
