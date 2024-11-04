@@ -1,5 +1,5 @@
 
-# 안녕하세요, 항상 도전하는 개발자입니다! 👋
+# 안녕하세요, 언제나 긍정적으로 소통하는 개발자입니다! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C90F7&center=true&vCenter=true&width=435&lines=Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
@@ -64,12 +64,13 @@
 ## 📚 Education & Certifications
 - SQLD 자격증 취득 (2024.04)
 - 삼성 청년 소프트웨어 아카데미 11기 (2024.01 ~ )
-- ○○대학교 (2018.03 ~ 2024.02)
+- ○○대학교 소프트웨어학과 (2018.03 ~ 2024.02)
 
 ## 🌟 Activities
 - 소프트웨어 봉사단 (2023.04 ~ 2024.03)
 - PDA-Pro 학술 동아리 임원 및 부회장 (2018~2023)
 - CLASS 축구 동아리 (2018.04 ~ 2023.11)
+- 서울 교육 대학교 & 천재 교육 수학 코딩 교과서 연구(2018.06~2018.12)
 
 ## 📫 How to reach me
 <p align="center">
